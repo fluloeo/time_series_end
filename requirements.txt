@@ -1,0 +1,9 @@
+pandas
+numpy
+matplotlib
+seaborn
+statsforecast
+plotly
+statsmodels
+torch
+torchinfo
