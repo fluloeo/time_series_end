@@ -1,0 +1,13 @@
+variant,window,nwrmsle,best_iter
+Variant C (full),expand_2017-06-15,0.51407,93
+Variant C (full),expand_2017-06-29,0.52278,573
+Variant C (full),expand_2017-07-13,0.55573,511
+Variant C (full),expand_2017-07-27,0.58907,550
+Variant A (base),expand_2017-06-15,0.6403,1499
+Variant A (base),expand_2017-06-29,0.62421,823
+Variant A (base),expand_2017-07-13,0.66796,1499
+Variant A (base),expand_2017-07-27,0.73697,1283
+Variant B (time),expand_2017-06-15,0.50202,486
+Variant B (time),expand_2017-06-29,0.52272,1128
+Variant B (time),expand_2017-07-13,0.55252,367
+Variant B (time),expand_2017-07-27,0.587,843

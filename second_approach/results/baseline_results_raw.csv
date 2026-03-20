@@ -1,0 +1,9 @@
+window,model,nwrmsle,train_days
+expand_2017-06-15,Naive,0.90766,166
+expand_2017-06-15,SeasonalNaive,0.8325,166
+expand_2017-06-29,Naive,0.86123,180
+expand_2017-06-29,SeasonalNaive,0.83306,180
+expand_2017-07-13,Naive,0.9604,194
+expand_2017-07-13,SeasonalNaive,0.78752,194
+expand_2017-07-27,Naive,1.11685,208
+expand_2017-07-27,SeasonalNaive,0.95469,208
